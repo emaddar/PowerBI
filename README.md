@@ -1,6 +1,6 @@
 ## Projet Power BI pour l'analyse des données Enedis
 
-Solarized dark             |  Solarized Ocean
+Power Bi             |  Enedis
 :-------------------------:|:-------------------------:
 ![](https://global-uploads.webflow.com/5e45e7fa0ca16f06c09e1e56/61d869387b27631ea8f491b5_Banniere%20blog%20-%20ERP.png)  |  ![](https://www.fournisseurs-electricite.com/sites/fournisseurs-electricite.com/files/2019-12/enedis-presentation.png)
 
