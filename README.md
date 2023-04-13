@@ -16,4 +16,4 @@ Ce projet consiste à utiliser les données Open Data fournies par Enedis pour a
 ### Sources de données
 Les données nécessaires pour ce projet sont disponibles sur le site Open Data d'Enedis: https://data.enedis.fr/
 
-![gif](https://i0.wp.com/sqlitybi.com/wp-content/uploads/2019/11/use-case-example2.gif?resize=937%2C759&ssl=1)
+
