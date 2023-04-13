@@ -1,9 +1,8 @@
 ## Projet Power BI pour l'analyse des données Enedis
 
-<div style="display:flex;">
-  <img src="https://global-uploads.webflow.com/5e45e7fa0ca16f06c09e1e56/61d869387b27631ea8f491b5_Banniere%20blog%20-%20ERP.png" style="width:50%; margin-right:10px;">
-  <img src="https://www.fournisseurs-electricite.com/sites/fournisseurs-electricite.com/files/2019-12/enedis-presentation.png" style="width:50%;">
-</div>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://global-uploads.webflow.com/5e45e7fa0ca16f06c09e1e56/61d869387b27631ea8f491b5_Banniere%20blog%20-%20ERP.png)  |  ![](https://www.fournisseurs-electricite.com/sites/fournisseurs-electricite.com/files/2019-12/enedis-presentation.png)
 
 ### Introduction
 Ce projet consiste à utiliser les données Open Data fournies par Enedis pour analyser les informations relatives à la consommation d'énergie électrique en France. Les données sont fournies toutes les 30 minutes et depui 2018.
